@@ -1,0 +1,72 @@
+Los peritos informáticos suelen ser llamados a declarar en los tribunales. 
+Para garantizar que sus pruebas sean precisas y fiables, deben ser 
+conscientes de la posible destrucción de pruebas.
+
+La destrucción de pruebas puede tener graves consecuencias para el resultado 
+de un caso. Es importante que los peritos informáticos comprendan las 
+implicaciones legales de la destrucción de pruebas y cómo evitarla.
+
+////////////////////////////////////////////////////////////////////
+
+Eliminación intencional de datos: La eliminación intencional de datos es una forma común de destruir pruebas. Los delincuentes pueden eliminar archivos o borrar unidades de almacenamiento completas para evitar que se descubra evidencia que podría incriminarlos.
+
+Modificación de datos: La modificación de datos también puede destruir pruebas. Los delincuentes pueden cambiar o alterar datos para ocultar su actividad o para cambiar la apariencia de lo que realmente sucedió.
+
+Sobrescritura de datos: La sobrescritura de datos es otra forma común de destruir pruebas. Los delincuentes pueden escribir sobre archivos o unidades de almacenamiento completas para borrar toda la información que podrían incriminarlos.
+
+Daño físico: El daño físico a un dispositivo de almacenamiento, como un disco duro, también puede destruir pruebas. Si se daña el dispositivo de almacenamiento, los datos almacenados en él pueden ser inaccesibles o completamente eliminados.
+
+Alteración del entorno de las pruebas: La alteración del entorno de las pruebas también puede destruir pruebas. Por ejemplo, si alguien manipula o cambia la configuración de un sistema informático mientras se lleva a cabo una investigación, podría dificultar la recuperación de datos y la recolección de pruebas.
+
+
+////////////////////////////////////////////////////////////////////////////////
+
+
+
+Como perito informático, es importante tomar medidas adecuadas para evitar la 
+destrucción de pruebas. Aquí hay algunas recomendaciones que pueden ayudarte a
+lograrlo:
+
+Asegúrate de asegurar el lugar de los hechos: Si el lugar de los hechos es un 
+equipo informático o una red, es importante asegurarse de que nadie más tenga 
+acceso a él mientras se lleva a cabo la investigación. Esto puede implicar el 
+cierre de la sala o el uso de medidas físicas de seguridad.
+
+
+Toma fotografías y video: Al tomar fotografías y video de la escena, puedes 
+documentar el estado original del equipo y cualquier posible evidencia que haya 
+en él. Además, si algo se pierde o se destruye más tarde, tendrás imágenes para 
+mostrar lo que estaba presente originalmente.
+
+
+Utiliza herramientas de software para hacer copias forenses: Para evitar la 
+pérdida o destrucción de pruebas, debes crear copias forenses de los datos que 
+se encuentran en el equipo o la red en cuestión. Estas copias se deben realizar
+con herramientas forenses que no alteren los datos originales.
+
+
+Guarda las copias en un lugar seguro: Una vez que se hayan realizado las copias
+forenses, es importante guardarlas en un lugar seguro y controlado. Esto puede
+implicar el uso de sistemas de almacenamiento encriptados o el almacenamiento
+en una caja fuerte.
+
+
+Establece un registro de custodia: Es importante establecer un registro de 
+custodia para cualquier evidencia recolectada. Este registro debería documentar 
+quién tuvo acceso a la evidencia, cuándo lo tuvo y cuál fue su propósito.
+
+
+Trabaja con un equipo de investigación: Es importante trabajar con un equipo de
+investigación para asegurarse de que se tomen medidas adecuadas para evitar la 
+destrucción de pruebas. Este equipo puede incluir investigadores, abogados y 
+técnicos forenses.
+
+
+Asegúrate de seguir los procedimientos y estándares adecuados: Para asegurarte 
+de que no se pierda o destruya ninguna prueba, debes seguir los procedimientos 
+y estándares adecuados para la recolección y el manejo de evidencia digital. 
+Estos estándares se pueden encontrar en guías de organizaciones como la 
+Asociación Internacional de Especialistas en Informática Forense (IACIS) y el 
+Instituto Nacional de Estándares y Tecnología (NIST).
+
+////////////////////////////////////////////

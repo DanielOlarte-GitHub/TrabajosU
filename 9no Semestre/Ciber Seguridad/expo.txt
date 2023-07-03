@@ -1,0 +1,51 @@
+DATO CURIOSO
+El reconocimiento de la informática forense
+1978 Florida primeros crímenes en sistemas informáticos 
+sabotaje, modificaciones, copyright, alteración y robo de datos. 
+
+Copy II PC herramienta de copia de los disquetes de la época exacta, encargada de proteger a estos de la piratería.
+
+En el año 1983 herramienta para poder recuperar los archivos y aplicaciones eliminados de forma accidental.
+
+
+
+Si a través de una autopsia se puede determinar la causa de la muerte de una persona, a través de la informática forense son capaces de esclarecer
+datos de todo tipo que se pueden presentar como pruebas en un juicio.
+
+
+////////////////////////////////////////////////////////////////////ETAPAS/////////////////////////////////////////////////////////////////////////////
+
+ESTUDIO PRELIMINAR
+información Importante que ayude a facilitar el proceso y dejar todo claro
+
+Persona del equipo afectado por delito: nombre, apellidos, cargo, horas de trabajo, horario, tiempo que ha trabajado en la empresa, usuario del sistema, etc
+Equipo afectado: modelo, serie, sistema operativo, descripción del sistema, características del equipo, coste, años de funcionamiento, …
+memorias (USB, ,SD, MSD, RAM,…), discos duros con marca, modelo, número de serie, tipos de conexión de los disco duros del sistema,…
+
+
+ADQUISICION
+guantes, bolsas antiestáticas y jaulas de Faraday para depositar dispositivos que puedan interaccionar con ondas electromagnéticas como son los celulares.
+
+PRESERVACION
+VOLATIBILIDAD
+recolectar en el orden de la más volátil en primera instancia a la menor
+memoria, contenidos del caché y como último paso recolectar el contenido de documentos o información que esté disponible en el soporte de almacenamiento.
+
+RESTO DE PRESERVACION Y ADQUISICION
+Imagen completa del disco duro
+hardware y/o software que soportan todo tipo de dispositivos de almacenamiento.
+dispositivos preferentemente nuevos y formateados previamente eliminar las impurezas.
+
+Apagar el equipo o no.
+existir evidencias que todavía estén en la memoria volátil, usuarios conectados, procesos en ejecución, conexiones existentes, logs del sistema, etc
+
+REALIZACION Y PRESENTACION DOCUMENTO
+
+INFORME EJECUTIVO
+ir documentando todas las acciones
+rasgos más importantes de forma resumida
+sin entrar en detalles técnicos. Este informe debe ser muy claro, certero y conciso, dejando afuera cualquier cuestión que genere algún tipo de duda.
+
+
+INFORME TECNICO
+mayor grado y precisión todo el análisis realizado, resaltando técnicas y resultados encontrados, poniendo énfasis en modo de observación y dejando de lado las opiniones personales.

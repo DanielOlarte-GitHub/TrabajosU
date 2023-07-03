@@ -1,0 +1,111 @@
+CONTEXTO:
+Niño encontro USB mientras volvia del colegio, y la ingreso en el computador coorporativo del papa, Usb tenia virus y extrajo informacion importante de la empresa
+
+NUESTRA EMPRESA : 
+(ARS): Analistas Rápidos y Sinuosos
+
+EMPRESA AFECTADA:
+(AnálisisMarket+): Agencia de investigación de mercado.
+
+NOMBRE DE CASO:
+
+
+JEFE DE TECNOLOGIA DE LA INFORMACIÓN:
+Federico Rojas Hernandez
+
+NOS CONTACTAN:
+La empresa AnálisisMarket+ se da cuenta de que habia gran cantidad de archivos codificados, y que estaban siendo atacados por un ransomware en el cual se les estaba solicitando dinero a cambio de la libertad de los datos, La empresa contacta al equipo ARS para la investigacion forense digital de que fue lo que sucedio
+
+
+*******************************ETAPAS*******************************
+3 CICLOS DE INVESTIGACION
+
+*****************PRIMER**********************
+RECOLECCION:
+Recoleccion de los equipos y dispositivos dentro de la empresa 
+Interrogacion al personal
+
+
+PRESERVACIÓN:
+Copia de seguridad a cada uno de los dispositivos recolectados
+Fotos y Videos del estado fisico de cada uno de estos dispositivos recolectados para evitar manipulacion de estos sin darnos cuenta
+Documentacion escrita de lo dicho por el personal en el interrogatorio.
+
+
+ANÁLISIS:
+Analisis de cada uno de los equipos (estados de cada uno de ellos, firewall, procesos hechos, proxys, modificaciones hash, vulnerabilidades abiertas, version del equipo, referencia, actualizaciones de Softwares)
+De acuerdo a los analisis de los equipos de la empresa y algunos testimonios como:
+Segun el testimonio de un empleado nos comento que no tiene bajo ninguna seguridad el equipo coorporativo en su casa, que cualquiera de sus hijos o familiares podria acceder a el como cualquier equipo normal de la casa.
+
+
+
+*****************SEGUNDO**********************
+Analizar personal con acceso a los datos, y con dispositivos empresariales en su residencia
+RECOLECCION:
+Recoleccion de dichos equipos y dispositivos 
+
+
+PRESERVACION: 
+Copia de seguridad a cada uno de los dispositivos
+Fotos y Videos del estado fisico de cada uno de estos
+
+ANALISIS:
+Analisis de cada uno de los equipos (estado de cada uno de ellos, firewall, procesos hechos, proxys, modificaciones hash, vulnerabilidades abiertas, version del equipo, referencia, actualizaciones de Softwares)
+
+
+*****************TERCERO**********************
+
+Despues de saber que dispositivo fue el afectado y desde cual se hizo el ataque se hace una investigacion del responsable del equipo y sus familiares
+
+Dentro de este análisis resulto ser que el hijo de 10 años del empleado Juan Chope Ávila un dia estaba volviendo del colegio se encontro una USB mientras, y tuvo intriga de que podria contener, la ingreso en el computador coorporativo del papa, esta Usb contenia un ransomware y afecto a la empresa AnálisisMarket+
+
+El niño se puso muy triste por que el no tenia ni idea de las consecuencias que podia tener ingresar una usb desconocida y menos a un dispositivo tan importante
+
+NIÑO TRISTE :( CONFIESA
+
+
+
+PRESENTACIÓN:
+
+DOCUMENTO:
+
+
+
+
+
+Basado en la información que me has proporcionado, parece que el caso de análisis forense digital realizado por ARS ha revelado que el incidente de ransomware en la empresa AnálisisMarket+ fue causado por el hijo de 10 años del empleado Juan Chope Ávila. El niño encontró una unidad USB en su camino de regreso a casa y decidió conectarla al computador corporativo de su padre sin entender las posibles consecuencias.
+
+Este descubrimiento resalta la importancia de la concienciación y la educación sobre seguridad informática tanto para los empleados como para sus familiares, especialmente cuando se trata de dispositivos y redes empresariales. Es esencial enseñar a los niños sobre los riesgos asociados con dispositivos y medios desconocidos para evitar incidentes similares en el futuro.
+
+Con estos hallazgos, ARS puede concluir que el incidente de ransomware fue resultado de una acción no intencionada y sin malicia por parte del hijo del empleado. A partir de aquí, es posible que se tomen medidas correctivas, como brindar capacitación en seguridad a los empleados y sus familias, y reforzar las políticas y procedimientos de seguridad de la empresa para prevenir futuros incidentes de este tipo.
+
+Después de completar el análisis forense digital y determinar que el incidente de ransomware fue causado por el hijo de Juan Chope Ávila, se llevaron a cabo varias acciones para solucionar la situación.
+
+En primer lugar, se tomaron medidas para garantizar la eliminación completa del ransomware de los sistemas de AnálisisMarket+. Se implementaron procedimientos de limpieza y restauración de datos respaldados para recuperar la información afectada. Además, se fortalecieron las medidas de seguridad y se realizaron actualizaciones en los sistemas para evitar futuros ataques similares.
+
+En segundo lugar, se estableció una comunicación transparente con los clientes de AnálisisMarket+ para informarles sobre el incidente y las acciones tomadas para remediar la situación. Se les proporcionó la tranquilidad de que se habían implementado medidas adecuadas para proteger sus datos y se les ofreció apoyo adicional si experimentaban algún problema derivado del incidente.
+
+Por último, el caso llegó a manos de un juez para evaluar las consecuencias legales. Dado que el niño no tenía intención maliciosa y era consciente de su error, se tomaron en consideración su edad y su falta de comprensión sobre los riesgos asociados con dispositivos desconocidos. El juez determinó que no era apropiado imponer sanciones severas al niño ni a su familia, sino que se enfocó en medidas educativas y preventivas.
+
+Como parte del proceso legal, se desarrolló un programa de concienciación en seguridad informática para la comunidad escolar, impartiendo charlas y talleres en la escuela del niño. Además, se implementaron programas similares en otras empresas y escuelas de la localidad para promover la concienciación sobre ciberseguridad en toda la comunidad.
+
+
+
+En el caso de Juan Chope Ávila, como padre responsable y empleado de AnálisisMarket+, se tomaron medidas internas dentro de la empresa para abordar la negligencia en la seguridad de los dispositivos corporativos en su hogar.
+
+Juan Chope Ávila recibió una advertencia y se le brindó una capacitación adicional en seguridad informática para garantizar que comprendiera plenamente la importancia de proteger los dispositivos empresariales y los datos confidenciales de la empresa. Se enfatizó la necesidad de seguir políticas y prácticas de seguridad adecuadas en el entorno laboral y en casa.
+
+Además, se implementaron medidas adicionales para garantizar que todos los empleados comprendieran las implicaciones de la seguridad informática y las mejores prácticas para proteger la información corporativa, incluyendo políticas claras y comunicación regular sobre seguridad.
+
+No se tomaron medidas legales adicionales contra Juan Chope Ávila, ya que su negligencia no fue intencional y se demostró una actitud cooperativa durante la investigación. Sin embargo, se le instó a asumir la responsabilidad de proteger adecuadamente los dispositivos y datos empresariales, y se le brindó el apoyo y la educación necesarios para cumplir con estas expectativas en el futuro.
+
+En general, se buscó una solución equitativa y enfocada en la prevención para garantizar que todos los empleados y sus familias comprendieran y aplicaran prácticas de seguridad adecuadas, y que la empresa pudiera avanzar con medidas sólidas para prevenir incidentes similares en el futuro.
+
+
+
+
+
+
+
+
+

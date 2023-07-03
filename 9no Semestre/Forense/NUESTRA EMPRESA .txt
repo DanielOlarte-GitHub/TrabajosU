@@ -1,0 +1,23 @@
+NUESTRA EMPRESA : 
+(ARS): Analistas Rápidos y Sinuosos
+
+EMPRESA AFECTADA:
+(AnálisisMarket+): Agencia de investigación de mercado.
+
+JEFE DE TECNOLOGIA DE LA INFORMACIÓN:
+Federico Rojas Hernandez
+
+NOS CONTACTAN:
+La empresa AnálisisMarket+ se da cuenta de que habia gran cantidad de archivos codificados, y que estaban siendo atacados por un ransomware en el cual se les estaba solicitando dinero a cambio de la libertad de los datos, La empresa contacta al equipo ARS para la investigacion forense digital de que fue lo que sucedio
+
+
+
+No se tomaron medidas legales adicionales contra Juan Chope Ávila, ya que su negligencia no fue intencional y se demostró una actitud cooperativa durante la investigación. Sin embargo, se le instó a asumir la responsabilidad de proteger adecuadamente los dispositivos y datos empresariales, y se le brindó el apoyo y la educación necesarios para cumplir con estas expectativas en el futuro.
+
+
+
+CONCLUSIONES:
+
+Basado en la información que me has proporcionado, parece que el caso de análisis forense digital realizado por ARS ha revelado que el incidente de ransomware en la empresa AnálisisMarket+ fue causado por el hijo de 10 años del empleado Juan Chope Ávila. El niño encontró una unidad USB en su camino de regreso a casa y decidió conectarla al computador corporativo de su padre sin entender las posibles consecuencias.
+
+Este descubrimiento resalta la importancia de la concienciación y la educación sobre seguridad informática tanto para los empleados como para sus familiares, especialmente cuando se trata de dispositivos y redes empresariales. Es esencial enseñar a los niños sobre los riesgos asociados con dispositivos y medios desconocidos para evitar incidentes similares en el futuro.

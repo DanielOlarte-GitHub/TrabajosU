@@ -1,0 +1,56 @@
+SEGURIDAD:
+
+Al comparar la seguridad de Windows y Linux, es importante tener en cuenta que ambos sistemas operativos tienen enfoques de seguridad diferentes
+
+Por otro lado, Linux se basa en la filosofía de seguridad por diseño, lo que significa que el sistema operativo se ha diseñado para ser seguro desde su creación.
+
+código abierto, lo que significa que cualquier vulnerabilidad o error de seguridad se puede detectar y corregir rápidamente por la comunidad de desarrolladores.
+
+
+ El ransomware Erebus 
+
+**********************************************************************************************
+**********************************************************************************************
+**********************************************************************************************
+**********************************************************************************************
+
+MASIFICACIÓN
+
+
+
+1991, estudiante finlandés llamado Linus Torvalds comenzó a trabajar en un proyecto de software que se convertiría en el kernel de Linux. Linus publicó el código fuente del kernel en Internet y rápidamente comenzó a recibir contribuciones de otros desarrolladores.
+
+en los 90 red hat y susi empezaron a comercializar las distribuciones y ahi empezo a crecer exponencialmente
+
+2000 informática en la nube, la supercomputación y la informática móvil
+
+debido al creciente interés en el software de código abierto 
+
+A medida que Linux se ha convertido en una opción cada vez más popular, se ha vuelto más accesible para los usuarios comunes. Muchos fabricantes de hardware, como Dell y Lenovo, ofrecen equipos con Linux preinstalado, lo que facilita su adopción. Además, la popularidad de distribuciones de Linux como Ubuntu ha ayudado a que Linux sea más fácil de usar y accesible para los usuarios no técnicos.
+
+aplicaciones en linux
+
+ compatibilidad con hardware y software de terceros, lo que lo hace más viable como una alternativa viable a los sistemas operativos propietarios.
+
+
+
+**************************************************************************************
+FORENSE
+
+codigo abierto
+ expertos en seguridad pueden examinar y modificar el código fuente para satisfacer sus necesidades específicas. Además, Linux ofrece una amplia variedad de herramientas de línea de comandos y de gráficos que pueden ser utilizadas para recopilar y analizar datos de forma eficiente y precisa.
+
+
+Volatility, que permite a los investigadores de seguridad analizar la memoria del sistema en busca de pistas y evidencia en caso de ataques cibernéticos o intrusiones.
+
+
+ análisis de red, que pueden ser utilizadas para analizar el tráfico de red y recopilar información útil en caso de investigaciones de seguridad. Las herramientas de análisis de red de Linux incluyen Wireshark y tcpdump, entre otros.
+
+
+Linux es una herramienta valiosa en informática forense debido a su naturaleza de código abierto, sus numerosas herramientas y características de seguridad, y su capacidad para realizar análisis de memoria y de red.
+
+
+KALI:
+distribución de Linux especializada en pruebas de penetración y análisis forense digital
+ 600 herramientas de pruebas de penetración y seguridad,
+escáneres de vulnerabilidades, herramientas de análisis de tráfico de red, herramientas de inyección de paquetes, herramientas de fuerza bruta, herramientas de análisis de contraseñas y muchas otras.

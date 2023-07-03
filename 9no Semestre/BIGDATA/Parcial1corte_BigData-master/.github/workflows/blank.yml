@@ -1,0 +1,50 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Python application
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.8"
+    - name: Install dependencies
+      env:
+        VIRTUALENV: env
+      run: |
+        pip install virtualenv
+        virtualenv -p python $VIRTUALENV
+        source $VIRTUALENV/bin/activate
+        pip install flake8
+        pip install beautifulsoup4
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        pip install awscli
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ASIAQBGNYHYHLAHN324G
+        aws-secret-access-key: sUy8FzkLNgmv50pDkv/X742jGc6d1nVCTLxw6RrW
+        aws-session-token:  FwoGZXIvYXdzEO3//////////wEaDN9rMNOom0hKduTQDyLFAQEaSItNI/1EDoIuOvyXLrDlDRt2j686PjSJ25xIPNzhkbKZhVdz/IEk+yZBifYUr9gTqN6eYSwNg4nTkCDmF2LPoMlnw0cLUVCebx73rCEZqeDR13pL3qKL+LPOd02nWfP5fB0lH4AhjFCAIAbALvK04VouUaKrvfB28FbTviku2q8Gnp43k9qnyhtAcGMr0AjlLom03e3MfXIXy1yKtmLGb32BLmaw6DJnOl50Xg3tn/8qdx6JX7rAgzjiMAtgN/IhU6NfKLW5s6AGMi7/ZfmxE2oPaEmBbjUFFrT+kqREb6HPnHtbbUT8fLsRpcmt/cgUPCAQ87PvVmgb
+        aws-region: "us-east-1"       
+        
+        
+        
+    
+    - name: Actualiza etapas
+      env:
+        VIRTUALENV: env
+      run: |
+        source $VIRTUALENV/bin/activate
+        zappa update dev
+        zappa update dev2
+        source $VIRTUALENV/bin/activate
+        zappa invoke dev app.app    
